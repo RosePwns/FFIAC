@@ -1,5 +1,5 @@
-# FFIAC
-### A script to fuzz for improper access control on a website.
+# FFIAC - FUZZ FOR IMPROPER ACCESS CONTROLS
+### A script to fuzz for Improper Access COntrols.
 Latest Implementations and Improvements:
 1. The script now accepts command line arguments using the argparse module.
 2. The script now uses multithreading to test files concurrently.
